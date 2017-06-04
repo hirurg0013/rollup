@@ -1,5 +1,6 @@
 import d from './foo.js';
 import b from './moo.js';
+//test1
 
 function z(){
   console.log('main test1');
